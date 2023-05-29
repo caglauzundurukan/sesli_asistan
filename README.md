@@ -1,6 +1,6 @@
 # Sesli Asistan Uygulaması
 
-Bu proje, Python dilinde bir sesli asistan uygulamasını simüle eden bir örnektir. Kullanıcının konuşmasını tanır, belirli komutlara sesli bir şekilde yanıt verir ve bazı işlevleri gerçekleştirir.
+Bu proje, Python programlama dili kullanılarak geliştirilmiş bir sesli asistan uygulaması örneğidir. Kullanıcının konuşmasını tanır, belirli komutlara sesli bir şekilde yanıt verir ve çeşitli işlevleri yerine getirebilir.
 
 ## Özellikler
 
