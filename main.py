@@ -21,8 +21,7 @@ def record(ask = False):
             speak('Sizi anlayamadım.')
         except sr.RequestError:
             speak('Sistem çalışmıyor.')   
-        return voice
-    
+        return voice    
 
 def response(voice):
     if 'merhaba' in voice:
@@ -40,7 +39,6 @@ def response(voice):
         speak('Görüşürüz.')
         exit()
 
-
 def speak(string):
     tts = gTTS(string, lang='tr')
     rand = random.randint(1,10000)
@@ -55,9 +53,3 @@ while 1:
     voice = record()
     print(voice)
     response(voice)
-
-
-
-
-
-
