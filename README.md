@@ -34,7 +34,7 @@ python main.py
 
 ## Katkıda Bulunma
 
-Katkıda bulunmaktan memnuniyet duyarız! Yeni özellikler ekleyebilir, hataları düzeltebilir veya mevcut kodu iyileştirebilirsiniz. Fork yaparak kendi projenizi oluşturabilir ve pull request gönderebilirsiniz.
+Katkıda bulunmanızdan memnuniyet duyarım! Yeni özellikler ekleyebilir, hataları düzeltebilir veya mevcut kodu iyileştirebilirsiniz. Fork yaparak kendi projenizi oluşturabilir ve pull request gönderebilirsiniz.
 
 ## Lisans
 
