@@ -30,7 +30,9 @@ Bu proje, Python programlama dili kullanılarak geliştirilmiş bir sesli asista
 
 1. Python 3.x'i yükleyin. (https://www.python.org/downloads/)
 2. Uygulamayı çalıştırmak için aşağıdaki komutu çalıştırın:
+```bash
 python main.py
+```
 
 ## Katkıda Bulunma
 
